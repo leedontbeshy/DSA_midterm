@@ -1,0 +1,7 @@
+C:\Users\dyphu\source\repos\KiemTraGiuaKi_CTDLvGT\KiemTraGiuaKi_CTDLvGT\bin\Debug\KiemTraGiuaKi_CTDLvGT.exe.config
+C:\Users\dyphu\source\repos\KiemTraGiuaKi_CTDLvGT\KiemTraGiuaKi_CTDLvGT\bin\Debug\KiemTraGiuaKi_CTDLvGT.exe
+C:\Users\dyphu\source\repos\KiemTraGiuaKi_CTDLvGT\KiemTraGiuaKi_CTDLvGT\bin\Debug\KiemTraGiuaKi_CTDLvGT.pdb
+C:\Users\dyphu\source\repos\KiemTraGiuaKi_CTDLvGT\KiemTraGiuaKi_CTDLvGT\obj\Debug\KiemTraGiuaKi_CTDLvGT.csproj.AssemblyReference.cache
+C:\Users\dyphu\source\repos\KiemTraGiuaKi_CTDLvGT\KiemTraGiuaKi_CTDLvGT\obj\Debug\KiemTraGiuaKi_CTDLvGT.csproj.CoreCompileInputs.cache
+C:\Users\dyphu\source\repos\KiemTraGiuaKi_CTDLvGT\KiemTraGiuaKi_CTDLvGT\obj\Debug\KiemTraGiuaKi_CTDLvGT.exe
+C:\Users\dyphu\source\repos\KiemTraGiuaKi_CTDLvGT\KiemTraGiuaKi_CTDLvGT\obj\Debug\KiemTraGiuaKi_CTDLvGT.pdb
